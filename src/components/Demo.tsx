@@ -265,7 +265,7 @@ export default function Demo(
             >
               ➤
             </span>
-            Tap to expand
+            Tap to expandv
           </button>
 
           {isContextOpen && (
